@@ -1,0 +1,11 @@
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/EstatepilotBackendApplication.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/dto/AuthResponse.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/dto/LoginRequest.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/dto/RegisterRequest.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/entity/Role.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/entity/User.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/repository/UserRepository.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/security/SecurityConfig.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/service/AuthService.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/auth/service/AuthServiceImpl.java
+/mnt/chromeos/MyFiles/EstatePilotAi/backend/src/main/java/com/estatepilot/controller/HealthController.java

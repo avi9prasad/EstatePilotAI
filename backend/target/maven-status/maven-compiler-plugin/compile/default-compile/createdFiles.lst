@@ -1,0 +1,12 @@
+com/estatepilot/auth/entity/User.class
+com/estatepilot/auth/dto/RegisterRequest.class
+com/estatepilot/auth/dto/AuthResponse.class
+com/estatepilot/auth/entity/Role.class
+com/estatepilot/auth/dto/LoginRequest.class
+com/estatepilot/EstatepilotBackendApplication.class
+com/estatepilot/auth/service/AuthServiceImpl.class
+com/estatepilot/controller/HealthController.class
+com/estatepilot/auth/repository/UserRepository.class
+com/estatepilot/auth/security/SecurityConfig.class
+com/estatepilot/auth/entity/User$UserBuilder.class
+com/estatepilot/auth/service/AuthService.class

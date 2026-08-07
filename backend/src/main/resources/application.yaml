@@ -1,0 +1,17 @@
+spring:
+  application:
+    name: estatepilot-backend
+
+  datasource:
+    url: jdbc:postgresql://localhost:5432/estatepilot
+    username: estatepilot
+    password: password
+    driver-class-name: org.postgresql.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+  flyway:
+    enabled: true
